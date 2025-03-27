@@ -1,12 +1,12 @@
 {
   "name": "rn-build-version",
-  "version": "1.0.1",
-  "description": "A React Native build and version management tool",
+  "version": "1.0.2",
+  "description": "A powerful React Native CLI tool for version management, build automation, and changelog generation for Android and iOS apps.",
   "main": "lib/versionManager.js",
   "bin": {
     "rn-build-version": "./bin/index.js"
   },
-  "type": "module", 
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,12 +14,28 @@
     "react-native",
     "build",
     "version",
+    "versioning",
     "apk",
     "aab",
+    "app-build",
     "management",
     "version-management",
     "android",
-    "ios"
+    "ios",
+    "mobile",
+    "cli",
+    "automation",
+    "changelog",
+    "gradle",
+    "react-native-tools",
+    "developer-tools",
+    "mobile-app",
+    "build-automation",
+    "release-management",
+    "npm-cli",
+    "react-native-build",
+    "cross-platform",
+    "app-versioning"
   ],
   "author": "Sujeet Kumar",
   "license": "MIT",
@@ -27,5 +43,23 @@
     "commander": "^13.1.0",
     "fs-extra": "^11.3.0",
     "inquirer": "^12.5.0"
+  },
+  "homepage": "https://github.com/getsettalk/rn-build-version",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getsettalk/rn-build-version.git"
+  },
+  "bugs": {
+    "url": "https://github.com/getsettalk/rn-build-version/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/getsettalk"
+  },
+  "contributors": [
+    "Sujeet Kumar <rajrock7254@gmail.com>"
+  ],
+  "engines": {
+    "node": ">=14"
   }
 }

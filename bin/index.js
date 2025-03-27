@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import VersionManager from '../lib/versionManager.js'; // ESM import with .js extension
-import { program } from 'commander'; // ESM import
+import VersionManager from '../lib/versionManager.js';
+import { program } from 'commander';
 
 program
   .version('1.0.0')

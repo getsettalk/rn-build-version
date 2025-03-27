@@ -35,6 +35,9 @@ npm install -g rn-build-version
 
 # As a dev dependency
 npm install --save-dev rn-build-version
+
+## using yarn
+yarn add --dev rn-build-version
 ```
 
 # Uses
