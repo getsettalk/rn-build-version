@@ -160,3 +160,14 @@ Current versionName: 0.0.1
 ---
 
 💡 **Enjoy hassle-free versioning in your React Native projects! 🚀**
+
+--- 
+### Screenshots
+
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/09587298-f6a0-457f-b9cd-522cf5577ff2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e2b31f89-f11f-423f-819f-6aeb670210ae" width="45%" />
+</p>
+
