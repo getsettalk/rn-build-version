@@ -1,0 +1,30 @@
+{
+  "name": "rn-build-version",
+  "version": "1.0.0",
+  "description": "A React Native build and version management tool",
+  "main": "lib/versionManager.js",
+  "bin": {
+    "rn-build-version": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "build",
+    "version",
+    "apk",
+    "aab",
+    "management",
+    "version-management",
+    "android",
+    "ios"
+  ],
+  "author": "Sujeet Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.0"
+  }
+}
