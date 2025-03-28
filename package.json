@@ -1,6 +1,6 @@
 {
   "name": "rn-build-version",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "A powerful React Native CLI tool for version management, build automation, and changelog generation for Android and iOS apps.",
   "main": "lib/versionManager.js",
   "bin": {
@@ -12,29 +12,15 @@
   },
   "keywords": [
     "react-native",
-    "build",
-    "version",
-    "versioning",
-    "apk",
-    "aab",
-    "app-build",
     "management",
     "version-management",
     "android",
-    "ios",
-    "mobile",
-    "cli",
-    "automation",
-    "changelog",
-    "gradle",
     "react-native-tools",
     "developer-tools",
     "mobile-app",
     "build-automation",
     "release-management",
-    "npm-cli",
     "react-native-build",
-    "cross-platform",
     "app-versioning"
   ],
   "author": "Sujeet Kumar",
@@ -53,10 +39,7 @@
   "bugs": {
     "url": "https://github.com/getsettalk/rn-build-version/issues"
   },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/getsettalk"
-  },
+
   "contributors": [
     "Sujeet Kumar <rajrock7254@gmail.com>"
   ],

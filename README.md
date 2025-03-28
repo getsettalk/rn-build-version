@@ -171,3 +171,6 @@ Current versionName: 0.0.1
   <img src="https://github.com/user-attachments/assets/e2b31f89-f11f-423f-819f-6aeb670210ae" width="45%" />
 </p>
 
+
+---
+Fixed: Now this will work all type of version naming convension.
