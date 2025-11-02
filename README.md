@@ -1,3 +1,5 @@
+<img width="1020" height="661" alt="image" src="https://github.com/user-attachments/assets/9d9d6a4c-e3a0-4be0-ad9a-20262941cc97" />
+
 # rn-build-version
 
 A React Native tool for managing `versionCode` and `versionName` in your Android `build.gradle` file, with support for building APKs and AABs. It simplifies version management by providing interactive prompts and automates backups and changelog updates.
